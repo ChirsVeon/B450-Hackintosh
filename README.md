@@ -45,18 +45,17 @@
 ## 截屏
 
 ![1About](ScreenShot/1About.png)
-![2DISPLAYS](ScreenShot/2DISPLAYS.png)
+
+![2DISPLAYS](ScreenShot/2Displays.png)
 
 ![3USB](ScreenShot/3USB.png)
 
-![3USB](ScreenShot/3USB.png)
+![4APPLEHDA](ScreenShot/4AppleHDA.png)
 
-![4APPLEHDA](ScreenShot/4APPLEHDA.png)
-
-![5ETHERNET](ScreenShot/5ETHERNET.png)
+![5ETHERNET](ScreenShot/5Ethernet.png)
 
 ![6IGPU](ScreenShot/6IGPU.png)
 
-![7MEMORY](ScreenShot/7MEMORY.png)
+![7MEMORY](ScreenShot/7Memory.png)
 
-![8AUDIO](ScreenShot/8AUDIO.png)
+![8AUDIO](ScreenShot/8Audio.png)
